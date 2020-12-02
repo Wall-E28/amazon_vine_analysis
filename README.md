@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of the project is the analyze Amazon reviews written by members of the paid Amazon Vine program. In order to complete this analysis, I used a subset of data that pertained to the video game subcategory of Amazon. I then performed an ETL this data by using AWS, Google Colaboratory, PostgreSQL, and PySpark. After that, I took a closer look at one of the tables I made during the ETL phase regarding the vine reviews to determine if there is any positivity bais for reviews in the Vine Program.
+The purpose of the project is the analyze Amazon reviews written by members of the paid Amazon Vine program. In order to complete this analysis, I used a subset of data that pertained to the video game subcategory of Amazon. I then performed an ETL on this data by using AWS, Google Colaboratory, PostgreSQL, and PySpark. After that, I took a closer look at one of the tables I made during the ETL phase regarding the vine reviews to determine if there was any positivity bias for reviews in the Vine Program.
 
 ## Results
 
